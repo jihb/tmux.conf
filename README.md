@@ -1,4 +1,8 @@
 # tmux.conf
+## tmux安装
+```
+brew install tmux
+```
 ## tmux常驻
     配置.bashrc
 
